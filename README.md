@@ -41,7 +41,7 @@ Sign-up for a free `alpaca` account
 ## Usage
 
 
-You’ll use a Jupyter Notebook to create two financial analysis tools in order to present the following information at the next assembly, as requested by the Chief Technology Officer of the credit union!
+You’ll use a Jupyter Notebook to create two financial analysis tools in order to present the following information at the next assembly, as requested by the Chief Technology Officer of the Credit Union!
 
 A financial planner for emergencies: The members will be able to use this tool to visualize their current savings. The members can then determine if they have enough reserves for an emergency fund.
 
